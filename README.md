@@ -1,1 +1,1 @@
-# Repo for lewagon Streamlit app
+# Repo for lewagon Streamlit app lecture
